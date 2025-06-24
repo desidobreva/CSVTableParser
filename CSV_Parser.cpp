@@ -86,13 +86,13 @@ int main()
 //    try
 //    {
 //        CSVTable table;
-//        std::ifstream ifs("proba.csv");
+//        std::ifstream ifs("test.csv");
 //        if (!ifs.is_open())
 //        {
 //            throw std::invalid_argument("Bad file name!");
 //        }
 //
-//        std::ofstream ofs("proba2.csv");
+//        std::ofstream ofs("test2.csv");
 //        if (!ofs.is_open())
 //        {
 //            throw std::invalid_argument("Bad file name!");
