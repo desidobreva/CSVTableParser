@@ -11,7 +11,7 @@ public:
 	TextCell& operator=(TextCell&& other) noexcept;
 
 	const char* getData() const;
-	std::string convertToCSV() const;
+	virtual std::string convertToCSV() const override;
 
 	virtual Cell* clone() const override;
 	virtual ~TextCell() noexcept override;
