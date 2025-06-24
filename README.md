@@ -38,4 +38,18 @@ Additional functionalities:
 
     reorderColumns: Reorder columns based on a user-specified permutation of column indices.
 
+The program supports five data types in the table:
+
+    Text
+
+    Number
+
+    Currency (a number followed by a 3-character currency code)
+
+    Unified Civil Number (UCN)
+
+    Faculty Number (from Sofia University)
+
+If the data doesn't match one of these five types, it is treated as text.
+
 
