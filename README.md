@@ -1,4 +1,4 @@
-# CSVTableParser
+# CSV Table Parser
 ## Project for OOP course @FMI, 2025
 Project Description:
 
