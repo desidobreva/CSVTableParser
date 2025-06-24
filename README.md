@@ -40,7 +40,7 @@ Additional functionalities:
 
 The program supports five data types in the table:
 
-    Text
+    Text (quoted text)
 
     Number
 
