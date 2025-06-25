@@ -40,8 +40,8 @@ private:
     void resize(size_t newCap);
 private:
     char* name;
-	ColumnType* type;
-	Cell** cells;
-	size_t size;
+    ColumnType* type;
+    Cell** cells;
+    size_t size;
     size_t cap;
 };
