@@ -11,7 +11,9 @@ public:
 
 	virtual Cell* clone() const override;
 	virtual std::string convertToCSV() const override;
+	virtual ~CurrencyCell() = default;
 private:
 	double amount;
 	char type[4];
+
 };
