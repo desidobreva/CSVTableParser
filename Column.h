@@ -43,5 +43,5 @@ private:
     ColumnType* type;
     Cell** cells;
     size_t size;
-    size_t cap; // commit changes
+    size_t cap;
 };
