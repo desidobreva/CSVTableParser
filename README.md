@@ -1,5 +1,5 @@
 # CSV Table Parser
-## Project that I did for my OOP course @ FMI, Sofia University, 2025
+## Project that I did for my OOP course @FMI, Sofia University, 2025
 Project Description:
 
 The project implements operations on CSV files through console commands. It allows loading the contents of a given file and saving the changes made to the file either in the same or a different user-specified file. The following commands are supported:
